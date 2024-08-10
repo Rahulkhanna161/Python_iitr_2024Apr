@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../devops-essentials-sample-app"
+		},
+		{
+			"name": "webserver",
+			"path": "../devops-essentials-sample-app/webserver"
+		}
+	],
+	"settings": {}
+}
